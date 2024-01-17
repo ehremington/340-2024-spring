@@ -1,0 +1,8 @@
+*.djvu
+*.autosave.xopp
+*~
+books/
+exams/
+*.ipynb_checkpoints/
+340-2020-fall/
+Hecht-optics-5ed.pdf
