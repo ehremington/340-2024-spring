@@ -6,4 +6,4 @@ exams/
 *.ipynb_checkpoints/
 340-2020-fall/
 Hecht-optics-5ed.pdf
-virtual_documents/
+.virtual_documents/
